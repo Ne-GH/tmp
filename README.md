@@ -7,7 +7,7 @@ My name is MaYuHui , 23 years old and I come from ZhengZhou .
 [I will introduce myself from the following three aspects: my performance in school, my hobbies and my future plan.](我将从以下三个方面介绍我自己:我的在校表现，我的爱好和我未来的计划。)  
 
 [第二段：在校表现]  
-[In college, I have been taking my studies seriously and have achieved good results. and I got some precious learning experience.Accordingly,So I won two school scholarships and one national motivational scholarship](在大学期间，我一直在认真对待学习，并且取得了还不错的成绩。同时我也积累了宝贵的学习经验。所以我获得了两次学校奖学金和一次国家励志奖学金。)
+[In college, I have been taking my studies seriously and have achieved good results. and I got some precious learning experience.So I won two school scholarships and one national motivational scholarship](在大学期间，我一直在认真对待学习，并且取得了还不错的成绩。同时我也积累了宝贵的学习经验。所以我获得了两次学校奖学金和一次国家励志奖学金。)
 [In addition, I have won the second prize of Blue Bridge Cup provincial competition and the third prize of ACM Provincial competition](此外，我曾先后获得了蓝桥杯省赛二等奖和ACM省赛三等奖)
 
 第三段：性格或爱好  
