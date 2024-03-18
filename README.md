@@ -11,8 +11,7 @@ My name is MaYuHui , 23 years old and I come from ZhengZhou .
 [In addition, I have won the second prize of Blue Bridge Cup provincial competition and the third prize of ACM Provincial competition](此外，我曾先后获得了蓝桥杯省赛二等奖和ACM省赛三等奖)
 
 第三段：性格或爱好  
-[I like c/c++, and based on my interest in c/c++, I read a lot of books,These books provided me with language skills and gave me the idea of writing an interpreter. I finally completed this idea in my graduation project.](我喜欢c/c++,而且基于对c/c++的兴趣，我阅读了大量的书籍，这些书籍为我提供了语言功底，使我萌发了写一个解释器的念头，最终我在毕业设计中完成了这个想法)
-[As a aggressive person, I always strive to achieve higher goals.](作为一个有进取心的人,我正在努力实现更高的目标)
+[I like c/c++, so I read a lot of books about them, these books made me more advanced, and gave me the idea of writing a C language interpreter, and finally I completed this idea in my graduation project](我喜欢c/c++,因此我阅读了大量关于它们的书籍，这些书籍使我水平更高，并使我萌发了写一个c语言解释器的念头，最终我在毕业设计中完成了这个想法)
 
 第四段：未来规划/读研展望  
 [Next, I want to talk about my future plans. ](接下来，我想谈谈研究生期间的规划。)  
