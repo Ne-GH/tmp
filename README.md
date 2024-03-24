@@ -7,11 +7,11 @@ My name is MaYuHui , 23 years old and I come from ZhengZhou .
 [I will introduce myself from the following three aspects: my performance in school, my hobbies and my future plan.](我将从以下三个方面介绍我自己:我的在校表现，我的爱好和我未来的计划。)  
 
 [第二段：在校表现]  
-[In college, I have been taking my studies seriously and have achieved good results. and I got some precious learning experience.So I won two school scholarships and one national motivational scholarship](在大学期间，我一直在认真对待学习，并且取得了还不错的成绩。同时我也积累了宝贵的学习经验。所以我获得了两次学校奖学金和一次国家励志奖学金。)
+[In college, I have been taking my studies seriously and have achieved good results.So I won two school scholarships and one national motivational scholarship](在大学期间，我一直在认真对待学习，并且取得了还不错的成绩。所以我获得了两次学校奖学金和一次国家励志奖学金。)
 [In addition, I have won the second prize of Blue Bridge Cup provincial competition and the third prize of ACM provincial competition](此外，我曾先后获得了蓝桥杯省赛二等奖和ACM省赛三等奖)
 
 第三段：性格或爱好  
-[I like c and c plus plus, so I read a lot of books about them, these books made me more advanced, and gave me the idea of writing a C language interpreter, and finally I completed this idea in my graduation project](我喜欢c/c++,因此我阅读了大量关于它们的书籍，这些书籍使我水平更高，并使我萌发了写一个c语言解释器的念头，最终我在毕业设计中完成了这个想法)
+[I like c and c plus plus, so I read a lot of books about them, these books made me more advanced, and gave me the idea of writing a C language interpreter. Finally, I completed this idea in my graduation project](我喜欢c/c++,因此我阅读了大量关于它们的书籍，这些书籍使我水平更高，并使我萌发了写一个c语言解释器的念头，最终我在毕业设计中完成了这个想法)
 
 第四段：未来规划/读研展望  
 [Next, I want to talk about my future plans. ](接下来，我想谈谈研究生期间的规划。)  
